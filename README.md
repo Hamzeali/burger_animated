@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+## About the Code
 
-This project is a starting point for a Flutter application.
+This simple project shows how to create an animated burger icon using Flutter framework
 
-A few resources to get you started if this is your first Flutter project:
+You can see the result of this code on Youtube:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Youtube Video](https://youtu.be/l6Qrj3D79mQ)
 
-For help getting started with Flutter, view our
+For help getting started with Flutter, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
